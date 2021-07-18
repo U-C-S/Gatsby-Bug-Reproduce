@@ -1,0 +1,13 @@
+{
+  "image-root": "/images/",
+  "someData": [
+    {
+      "name": "doggy",
+      "image": "puppy.png"
+    },
+    {
+      "name": "Cat",
+      "image": "meow.png"
+    }
+  ]
+}
